@@ -1,0 +1,23 @@
+# 🧠 `ai-mcp-dart-openapi-to-mcp-schema-compiler`
+
+> **Model Context Protocol (MCP), Tool Use & Routers** — Sovereign **Dart 3.x** AI Engine (`openapi-to-mcp-schema-compiler`).
+> Built by **Eng. Mahmoud Bek ElNemer (`@ElNeMeR70`)** — Part of the **`ai-1000`** Polyglot AI Mega-Ecosystem.
+
+---
+
+## 🚀 Overview | نبذة عن الأداة
+- **Repository:** `ElNeMeR70/ai-mcp-dart-openapi-to-mcp-schema-compiler`
+- **Suite:** `ai-1000` (1,000 Polyglot AI, LLM, Agentic Swarm, RAG & Quantization Engines)
+- **Category:** Model Context Protocol (MCP), Tool Use & Routers
+- **Algorithm / Module:** `openapi-to-mcp-schema-compiler`
+- **Language:** Dart 3.x (`main.dart`)
+- **Dependencies:** Zero external packages (100% pure standard library math & tensor primitives)
+
+## ⚡ Quick Start | التشغيل السريع
+```bash
+git clone https://github.com/ElNeMeR70/ai-mcp-dart-openapi-to-mcp-schema-compiler.git
+cd ai-mcp-dart-openapi-to-mcp-schema-compiler
+```
+
+## 📄 License
+MIT © **[Eng. Mahmoud Bek ElNemer | المهندس محمود النمر (`@ElNeMeR70`)](https://github.com/ElNeMeR70)**
